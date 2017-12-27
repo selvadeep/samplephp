@@ -1,0 +1,67 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+body { 
+	font: 14px; 
+}
+#page-wrap {
+	margin: 50px;
+}
+p {
+	margin: 20px 0; 
+}
+.btn{
+    
+    font-size: 13px;
+    border-radius: 10%;
+    width: 100px;
+    letter-spacing: 1px;
+}
+.btn1{
+    background-color: cornflowerblue;
+    font-size: 13px;
+    border-radius: 10%;
+    width: 100px;
+    letter-spacing: 1px;
+}
+.btn2{
+    background-color: salmon;
+    font-size: 13px;
+    border-radius: 10%;
+    width: 100px;
+    letter-spacing: 1px;
+}
+.btn3{
+    background-color: darkorchid;
+    font-size: 13px;
+    border-radius: 10%;
+    width: 100px;
+    letter-spacing: 1px;
+}
+.btn4{
+    background-color: lightseagreen;
+    font-size: 13px;
+    border-radius: 10%;
+    width: 100px;
+    letter-spacing: 1px;
+}	
+	table { 
+        margin-left: 58px;
+		width: 93%; 
+		border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #eee; 
+	}
+	th { 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+	td, th { 
+		padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}

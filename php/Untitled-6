@@ -1,0 +1,13 @@
+<?php
+include "../config.php";
+
+$cable_id = $_GET['idd'];
+
+
+$result = mysqli_query($link, "DELETE FROM userdetails WHERE id='$id'");
+
+if($result)
+{
+}
+mysqli_close($link);
+?>

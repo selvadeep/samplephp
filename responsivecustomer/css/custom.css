@@ -1,0 +1,125 @@
+.site-header-collapsed-in {
+margin-right: 135px !important;
+}
+
+.with-side-menu-compact .page-content {
+    padding-left: 100px !important;
+}
+
+.container-fluid {
+        background-color: white !important;
+}
+
+.page-content {
+    padding: 82px 0px 10px !important;
+    transition: all .2s ease-in-out;
+}
+
+.std11{
+        padding: 9px 40px 0px 15px;
+}
+
+.std13{
+    padding:46px 0px 14px 0px;
+}
+
+.content3{
+     padding: 9px 40px 0px 15px;
+}
+ .but{
+    border: 1px solid white;
+    background-color: transparent;
+    margin-left: 10px;
+     color: black;
+    border-radius: 44px;
+    padding: 1px 8px;
+    }
+.but:focus{
+            color: white;
+    background: #00A8FF;
+    border-radius: 44px;
+    padding: 1px 8px;
+    }
+ .but:hover{
+    color: white;
+    background: #00A8FF;
+    border-radius: 44px;
+    padding: 1px 8px;
+    }
+.but1{
+        color: white;
+    background: #0082c6;
+    border-radius: 44px;
+    padding: 1px 8px;
+    border: 1px solid white;
+}
+.btn.dropdown-toggle{
+          background-color: white;
+    border-color: #00A8FF;
+    color: #00A8FF;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+    float: right;
+    
+}
+
+.btn.dropdown-toggle:focus{
+    background-color: #00A8FF;
+    border-color: #dbe4ea;
+    color: #FFFFFF;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+.btn.btn-rounded{
+    padding: 4px 11px;
+        margin-top: -5px;
+}
+
+
+.content2{
+    padding: 9px 40px 0px 122px;
+}
+
+.head{
+    font-size:18px;
+    text-shadow: 2px 2px rgba(128, 128, 128, 0.4);
+}
+.ed{
+        float: left;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.36);
+}
+.del1{
+        float: right;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.36);
+}
+h4{
+        font-weight: 400;
+    margin-bottom: 0.2rem;
+}
+.quart{
+    padding-left: 100px !important;
+}
+
+.par{
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 3px;
+    border: 1px solid #C1D7DF;
+}
+.col-sm-3 {
+    width: 20% !important;
+}
